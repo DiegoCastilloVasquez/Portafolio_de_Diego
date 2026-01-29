@@ -321,7 +321,7 @@ document.addEventListener('DOMContentLoaded', () => {
         'cer/66.jpg',
         'cer/67.jpg',
         'cer/68.jpg',
-        'cer/69.jpg
+        'cer/69.jpg'
     ];
 
     function shuffle(array) {
@@ -403,5 +403,4 @@ document.addEventListener('DOMContentLoaded', () => {
             closeLightbox();
         }
     });
-
 });
