@@ -321,7 +321,26 @@ document.addEventListener('DOMContentLoaded', () => {
         'cer/66.jpg',
         'cer/67.jpg',
         'cer/68.jpg',
-        'cer/69.jpg'
+        'cer/69.jpg',
+        'cer/70.jpg',
+        'cer/71.jpg',
+        'cer/72.jpg',
+        'cer/73.jpg',
+        'cer/74.jpg',
+        'cer/75.jpg',
+        'cer/76.jpg',
+        'cer/77.jpg',
+        'cer/78.jpg',
+        'cer/79.jpg',
+        'cer/80.jpg',
+        'cer/81.jpg',
+        'cer/82.jpg',
+        'cer/83.jpg',
+        'cer/84.jpg',
+        'cer/85.jpg',
+        'cer/86.jpg',
+        'cer/87.jpg',
+        'cer/88.jpg'
     ];
 
     function shuffle(array) {
