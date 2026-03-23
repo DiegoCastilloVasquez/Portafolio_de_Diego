@@ -253,7 +253,7 @@ copyEmailButton.addEventListener('click', () => {
 document.addEventListener('DOMContentLoaded', () => {
 
     const todasLasCertificaciones = [];
-    for (let i = 1; i <= 91; i++) {
+    for (let i = 1; i <= 92; i++) {
         todasLasCertificaciones.push(`cer/${i}.jpg`);
     }
 
