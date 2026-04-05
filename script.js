@@ -251,10 +251,18 @@ copyEmailButton.addEventListener('click', () => {
 
 // Lógica para Certificaciones
 document.addEventListener('DOMContentLoaded', () => {
-
+    // Número total de certificados (actualizar si se añaden más)
+    const TOTAL_CERTIFICADOS = 92;
+    
     const todasLasCertificaciones = [];
-    for (let i = 1; i <= 92; i++) {
+    for (let i = 1; i <= TOTAL_CERTIFICADOS; i++) {
         todasLasCertificaciones.push(`cer/${i}.jpg`);
+    }
+
+    // Actualizar el contador de certificaciones
+    const countElement = document.querySelector('.certificaciones-count');
+    if (countElement) {
+        countElement.textContent = `${todasLasCertificaciones.length} certificados`;
     }
 
     function shuffle(array) {
