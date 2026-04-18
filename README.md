@@ -153,4 +153,4 @@ El sitio está completamente optimizado para:
 
 ---
 
-"Cualquier tecnología suficientemente avanzada es indistinguible de la magia" - Isaac Asimov*
+"Cualquier tecnología suficientemente avanzada es indistinguible de la magia" - Isaac Asimov
