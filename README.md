@@ -84,6 +84,7 @@ portfolio/
 - **Homenaje a Armor Mayhem:** Juego web inspirado en el clásico Flash
 - **Pong Recreado:** Implementación moderna del clásico Pong
 - **Martdown:** Editor de Markdown con soporte para TeX y Mermaid
+- **Laberinto:** Generador de laberintos con diferentes algoritmos.
 - Filtrado por categoría (Web/Escritorio)
 - Modal detallado con tecnologías y enlaces
 

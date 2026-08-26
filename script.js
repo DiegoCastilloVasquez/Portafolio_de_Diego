@@ -29,6 +29,16 @@ const projectsData = [
         technologies: ["JavaScript", "HTML", "CSS", "Electron"],
         demoLink: "https://diegocastillovasquez.github.io/Pagina-Web-de-Martdown",
         githubLink: "https://github.com/DiegoCastilloVasquez/Martdown"
+    },
+    {
+        id: 4,
+        title: "Laberinto",
+        description: "Juego interactivo de laberintos desarrollado con lógica algorítmica y renderizado dinámico, enfocado en la exploración, resolución de caminos y una experiencia de usuario fluida.",
+        image: "https://raw.githubusercontent.com/DiegoCastilloVasquez/Laberinto/refs/heads/main/captura.png",
+        category: "web",
+        technologies: ["JavaScript", "HTML", "CSS"],
+        demoLink: "https://diegocastillovasquez.github.io/Laberinto",
+        githubLink: "https://github.com/DiegoCastilloVasquez/Laberinto"
     }
 ];
 
